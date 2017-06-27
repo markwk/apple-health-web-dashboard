@@ -8,6 +8,11 @@ Apple Health Web Dashboard provides a daily view of your Apple Health data, like
 
 Apple Health Web Dashboard is a react web app (bootstrapped with React Create App). It pulls data from a backend server and displays it. See: https://github.com/markwk/apple-health-sync-backend
 
+## Dependencies
+* Should have installed [create-react-app](https://github.com/facebookincubator/create-react-app) globally
+  npm install -g create-react-app
+* To make a build version, should have installed yarn globally
+
 ## Installation and Setup 
 
 * Install dependencies by running $ npm install 
